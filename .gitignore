@@ -1,0 +1,6 @@
+vk_bot.log
+Lib/
+Scripts/
+__pycache__
+.venv/
+.idea/

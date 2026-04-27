@@ -1,0 +1,13 @@
+VK_ACCESS_TOKEN = "" #Токен вк бота
+VK_API_VERSION = "5.199"
+
+HTTP_HOST = "127.0.0.1"
+HTTP_PORT = 12345
+
+LOG_FILE = "vk_bot.log"
+
+DEFAULT_USERS = {
+
+}
+
+MAX_MESSAGE_LENGTH = 4000
